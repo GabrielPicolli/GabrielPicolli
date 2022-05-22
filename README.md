@@ -8,9 +8,8 @@
 </div>
 <a href="https://instagram.com/picollibiel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:gabrielpicolli33@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    
-</span>
-    
 <div align="center">
-<img src="![Digimon_Agumon_e_protagonista](https://user-images.githubusercontent.com/105945792/169675731-f8c8cf42-e2c0-4c35-9334-3aa89156214a.jpg)" width="300px" />
+<h2>Let's code!!!</h2>
+<img src="![278015173_5504115896300509_2815326445702319265_n](https://user-images.githubusercontent.com/105945792/169675864-8a07cf57-e622-4038-affe-280f48214c36.jpg)
+" width="400px" />
 </div>
